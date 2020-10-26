@@ -1,3 +1,3 @@
 Name: Alistair Holmes
 GitHub: alistairholmes
-Quote: With great power comes great responsibility
+Quote: The future is a mystery, the past is history, the present is a gift - Kung Fu Panda
