@@ -9,6 +9,7 @@ import 'package:flutter/material.dart';
 class Contributor extends StatelessWidget {
   // < Add your Full Name in the List[] >
   final contributorsName = [
+    'Alistair Holmes',
     'Muhammad Hamza',
     'Keshav Kaushik',
     'Aman Srivastava',
@@ -49,7 +50,7 @@ class Contributor extends StatelessWidget {
     'Antoni Wijaya',
     'Amaldev M V',
     'Agus Himawan'
-    'Tusar Ranjan Mahapatra',
+        'Tusar Ranjan Mahapatra',
     'Habeel Hashmi',
     'Rithik Bhandari'
         'Muhammad Zain Qadri'
@@ -58,16 +59,16 @@ class Contributor extends StatelessWidget {
     'Sai Nitesh',
     'Muhammad Zeeshan',
     'Praneeth Fernando'
-    'Abdullateef Olawale Sarafadeen'
-    'Praneeth Fernando',
+        'Abdullateef Olawale Sarafadeen'
+        'Praneeth Fernando',
     'Harshal Shree',
     'Sohan Kathait',
     'Malavika Sreekumar',
     'Rida Ayaz',
-	  'Nim Chathu',
+    'Nim Chathu',
     'Ahmad Khan',
     'Md Zaid Ansari',
-    'Muhammad Zeeshan',    
+    'Muhammad Zeeshan',
     'Dada Abdulrasheed',
     'Hemant',
     'Chakshu Salgotra',
@@ -126,16 +127,17 @@ class Contributor extends StatelessWidget {
     'Thesohan',
     'malavikasreekumar',
     'ridaayaz',
-	  'Nimesha1996',
+    'Nimesha1996',
     'olaabdul',
     'praneethfdo',
     'rmahmadkhan',
     'razorcalhn',
-    'zeeshanmahar007',    
+    'zeeshanmahar007',
     'iamhabee',
     'Hemant72',
     'chakshu21',
     'Steellow',
+    'alistairholmes',
   ];
 
   @override
